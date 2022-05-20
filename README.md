@@ -13,3 +13,9 @@ Repository for my brand new website development tutorial series on youtube
 [Go to description](https://basiccorruption.github.io/webdev-tutorial/Episode2/readme.md)
 
 [View end product](https://basiccorruption.github.io/webdev-tutorial/Episode2/index.html)
+
+## CSS - #3 - Adding custom fonts
+
+[Go to description](https://basiccorruption.github.io/webdev-tutorial/Episode3/readme.md)
+
+[View end product](https://basiccorruption.github.io/webdev-tutorial/Episode3/index.html)
