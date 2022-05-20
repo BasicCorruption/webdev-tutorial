@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Roboto+Mono&family=Ubuntu&display=swap');
+
+@font-face {
+    font-family: 'Nokia FC 22';
+    src: url('./assets/fonts/nokiafc22.ttf') format('truetype');
+}
+
+h1,
+p {
+    color: white;
+    font-family: 'Ubuntu',
+        'Lucida Sans Unicode',
+        'Lucida Grande',
+        'Lucida Sans',
+        Arial,
+        sans-serif;
+}
+
+summary,
+h1 {
+    font-weight: bolder;
+}
+
+summary {
+    font-family: 'Roboto Mono', 'Courier New', Courier, monospace;
+}
+
+#about-me-content {
+    font-weight: lighter;
+    font-family: 'Nokia FC 22', 'Roboto Mono', 'Courier New', Courier, monospace;
+}
