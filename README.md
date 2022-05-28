@@ -20,7 +20,7 @@ In this tutorial, we have added fonts from our computer and google fonts to our 
 
 [View end product](https://basiccorruption.github.io/webdev-tutorial/Episode3/index.html)
 
-# HTML & CSS - Episode #4 - Navigation bars
+## HTML & CSS - Episode #4 - Navigation bars
 
 In this tutorial, we have made a simple top and side navigation bar.
 
