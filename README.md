@@ -25,3 +25,10 @@ In this tutorial, we have added fonts from our computer and google fonts to our 
 In this tutorial, we have made a simple top and side navigation bar.
 
 [View end product](https://basiccorruption.github.io/webdev-tutorial/Episode4/index.html)
+
+# HTML, CSS, & JS - Episode #5 - Making a link tree
+
+In this tutorial, we have made a simple link tree.
+
+[View end product](https://basiccorruption.github.io/webdev-tutorial/Episode5/index.html)
+
