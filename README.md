@@ -32,3 +32,14 @@ In this tutorial, we have made a simple link tree.
 
 [View end product](https://basiccorruption.github.io/webdev-tutorial/Episode5/index.html)
 
+## HTML - Episode #6 - Images and Videos
+
+In this tutorial, we will embed images, videos, and youtube videos into our HTML.
+
+[View end product](https://basiccorruption.github.io/webdev-tutorial/Episode6/index.html)
+
+## HTML - Episode #7 - Lists and Tables
+
+In this tutorial, we will create a list and table.
+
+[View end product](https://basiccorruption.github.io/webdev-tutorial/Episode7/index.html)
